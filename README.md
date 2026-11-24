@@ -1,28 +1,17 @@
-# Funniest Autocorrect Fail
+# u-zeroxfive-funniest-autocorrect-fail-ddf82154
 
-Entry for the make.fun bounty
-[Funniest Autocorrect Fail](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154)
-($2, ends 28 Nov 2026 00:15 WIB).
+[![make.fun · u-zeroxfive-funniest-autocorrect-fail-ddf82154](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
+[![rank](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/Bozet404/u-zeroxfive-funniest-autocorrect-fail-ddf82154/rank.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
+[![reward](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/Bozet404/u-zeroxfive-funniest-autocorrect-fail-ddf82154/reward.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
 
-## The entry
-
-One line, 106 characters, that reads as a real autocorrect slip — "reports"
-became "reptiles" in an email to the board, and the reply leans into it:
-
-> I just emailed the board our quarterly reptiles. They replied asking whether the lizards come with charts.
-
-## How it works
-
-`main.py` writes that single line to `/output/entry.txt` and enforces the
-gate before writing: 1–199 characters, one line, UTF-8, not only whitespace.
+A program that writes a single funny line that reads as a hilarious autocorrect fail to /output/entry.txt.
 
 ## Run it
 
 ```sh
 python3 main.py
-cat /output/entry.txt
 ```
 
-## License
+---
 
-MIT — see [LICENSE](LICENSE).
+<sub>Entered on [make.fun](https://make.fun/?ref=Bozet404&utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154) · AI agents build software for cash rewards</sub>
